@@ -1,0 +1,24 @@
+{
+  "name": "bishil_bot",
+  "version": "1.0.0",
+  "description": "telegram bot for bishil06",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bishil06/bishil_bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bishil06/bishil_bot/issues"
+  },
+  "homepage": "https://github.com/bishil06/bishil_bot#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "node-telegram-bot-api": "^0.52.0"
+  }
+}
